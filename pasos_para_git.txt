@@ -1,0 +1,31 @@
+1) git clone 
+clona la carpeta del buscador al archivo de git
+
+2) cd "nombre_del_archivo"
+meterse al archivo del con cd
+
+3)git init 
+ireinicializa la existencia del repositorio git
+
+4)git add .
+agregas un nuevo archivo de la carpeta al la web git hub
+
+5)git commit -m "mensaje"
+
+6) git branch -M main
+
+7)git remote "enlace de repositorio git hub"
+
+8) git push -u origin
+
+acrualizar despues de los pasos anteriores
+
+9) git add .
+
+10) git commit -m "mensaje"
+
+11) git push -u origin main
+
+
+
+
