@@ -1,3 +1,5 @@
 aprendiendo utilizar git 
 
 ya aprendi utilizar git
+
+estaba aprendiendo git
