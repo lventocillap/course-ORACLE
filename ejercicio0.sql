@@ -1,0 +1,1 @@
+select * from Customers where Country = 'France' or Country = 'Germany' or Country = 'Sweden'
