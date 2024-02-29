@@ -1,0 +1,1 @@
+select * from Customers where CustomerID like 'A%'
