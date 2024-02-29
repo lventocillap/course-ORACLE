@@ -1,4 +1,4 @@
-1) git clone 
+1) git clone "enlace de reposirio git hub"
 clona la carpeta del buscador al archivo de git
 
 2) cd "nombre_del_archivo"
