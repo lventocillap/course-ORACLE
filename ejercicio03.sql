@@ -1,0 +1,1 @@
+select * from Orders where ShipRegion is not null
