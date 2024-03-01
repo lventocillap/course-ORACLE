@@ -14,7 +14,7 @@ agregas un nuevo archivo de la carpeta al la web git hub
 
 6) git branch -M main
 
-7)git remote "enlace de repositorio git hub"
+7)git remote  add origin "enlace de repositorio git hub"
 
 8) git push -u origin
 
